@@ -1,0 +1,15 @@
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\HW29.csproj.AssemblyReference.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\HW29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\HW29.AssemblyInfoInputs.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\HW29.AssemblyInfo.cs
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\HW29.csproj.CoreCompileInputs.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\bin\Debug\net6.0\HW29.exe
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\bin\Debug\net6.0\HW29.deps.json
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\bin\Debug\net6.0\HW29.runtimeconfig.json
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\bin\Debug\net6.0\HW29.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\bin\Debug\net6.0\HW29.pdb
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\HW29.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\refint\HW29.dll
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\HW29.pdb
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\HW29.genruntimeconfig.cache
+C:\Users\EL-pr-S\Documents\ДЗ\Seminar4\HW29\obj\Debug\net6.0\ref\HW29.dll
